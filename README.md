@@ -1,0 +1,2 @@
+# RESTAURANT-ORDER-MANAGEMENT-SYSTEM-USING-QUEUES-AND-STACKS
+A console-based application developed in C programming language that demonstrates the practical application of queue and stack data structures in real-world scenarios. The system utilizes a queue to manage pending customer orders by FIFO principle. Completed orders are stored in a stack using LIFO approach, allowing retrieval of recent orders.
